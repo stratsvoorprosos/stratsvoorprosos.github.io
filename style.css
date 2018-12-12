@@ -1,0 +1,132 @@
+title{
+  color: white;
+}
+
+h1 {
+color : white;
+font-family: 'Indi Flower', cursive;
+  font-size: 150%;
+}
+style
+
+.rainbow_background_size{
+
+     /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.fortnite_background_size{
+  /* Set rules to fill background */
+min-height: 100%;
+min-width: 1024px;
+
+/* Set up proportionate scaling */
+width: 100%;
+height: auto;
+
+/* Set up positioning */
+position: fixed;
+top: 0;
+left: 0;
+}
+
+.overwatch_background_size{
+  /* Set rules to fill background */
+min-height: 100%;
+min-width: 1024px;
+
+/* Set up proportionate scaling */
+width: 100%;
+height: auto;
+
+/* Set up positioning */
+position: fixed;
+top: 0;
+left: 0;
+}
+
+.kwal_background_size{
+  /* Set rules to fill background */
+min-height: 100%;
+min-width: 1024px;
+
+/* Set up proportionate scaling */
+width: 100%;
+height: auto;
+
+/* Set up positioning */
+position: fixed;
+top: 0;
+left: 0;
+}
+
+body
+#aardappelimg{
+  border-radius: 10px
+}
+
+#rainbowimg {
+  border-radius: 50%;
+}
+#overwatchimg {
+  border-radius: 50%
+}
+#fortniteimg {
+  border-radius: 50%
+}
+#minionsimg{
+border-radius: 50%
+}
+
+#controllerimg {
+	border-radius: 50%
+}
+
+#rainbow_home_img{
+  border-radius: 10px
+}
+
+#overwatch_home_img{
+  border-radius: 10px
+}
+
+#fortnite_home_img{
+  border-radius: 10px
+}
+
+#minions_home_img{
+  border-radius: 10px
+}
+
+#controller_home_img{
+  border-radius: 10px
+}
+
+p {
+color : white;
+font-family: 'Indi Flower', cursive;
+font-size: 150%;
+
+}
+
+p1 {
+color : white;
+font-family: 'Indi Flower', cursive;
+font-size: 150%;
+
+}
+tr{
+  color : white;
+  front-family: 'Indi Flower', cursive;
+  font-size:  150%;
+}
