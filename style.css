@@ -10,8 +10,7 @@ font-family: 'Indi Flower', cursive;
 style
 
 .rainbow_background_size{
-background-size: cover;
-}
+background-size: contain;}
 
 .fortnite_background_size{
   /* Set rules to fill background */
